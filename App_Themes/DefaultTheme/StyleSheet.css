@@ -1,0 +1,45 @@
+﻿body {
+    background-image:url(book.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font:bold 18px Chiller; 
+    
+}
+#Button1:hover {
+    cursor:grab;
+
+}
+#Button2:hover {
+    cursor:grab;
+
+}
+#Button3:hover {
+    cursor:grab;
+
+}
+#Button4:hover {
+    cursor:grab;
+
+}
+#Button5:hover {
+    cursor:grab;
+
+}
+#Button6:hover {
+    cursor:grab;
+
+}
+#Button7:hover {
+    cursor:grab;
+
+}
+#Button1:hover {
+    cursor:grab;
+
+}
+.kopce:hover{
+    cursor:grab;
+}
+#Label1 {
+    font-size:100px;
+}
